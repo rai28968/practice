@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    justify-content: center;
+   
+    
+}
+.list{
+    margin-left: 10px;
+    
+}

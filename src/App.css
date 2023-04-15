@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  
+  align-items: center;
+  color: rebeccapurple;
+
+}
+ 
+.box{
+  border: 3px, solid, black;
+}
